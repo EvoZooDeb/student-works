@@ -4,8 +4,8 @@ pw <- list(
   port=7401,
   dbport=5432,
   script_path=getwd(),
-  project='ring',
-  puser='ring_admin',
-  ppass='s8uwdm4scqg',
+  project='hgjgkg',
+  puser='ghghjggj',
+  ppass='sadsdsadsdsadsa',
   database='gisdata',
   server='openbiomaps.org')
